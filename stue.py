@@ -1,12 +1,5 @@
 
-# Python3 script to connect to MQTT, read values and write them into MySQL
-#
-# B. Duijnhouwer
-# June, 8th 2020
-#
-# version: 1.0
-#
-#
+
 import paho.mqtt.client as mqtt
 import json
 import pymysql
